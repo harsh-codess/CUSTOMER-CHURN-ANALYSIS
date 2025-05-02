@@ -1,4 +1,4 @@
-Churn Prediction using Artificial Neural Networks (ANN)
+Churn Prediction using Artificial Neural Networks (ANN
 
 📌 Overview
 
